@@ -1,0 +1,20 @@
+{
+  "name": "gother",
+  "version": "1.0.0",
+  "description": "Um video maker.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "FelipeSazz",
+  "license": "ISC",
+  "dependencies": {
+    "algorithmia": "^0.3.10",
+    "fs": "0.0.1-security",
+    "googleapis": "^39.2.0",
+    "image-downloader": "^3.4.2",
+    "readline-sync": "^1.4.9",
+    "sbd": "^1.0.15",
+    "watson-developer-cloud": "^4.0.1"
+  }
+}

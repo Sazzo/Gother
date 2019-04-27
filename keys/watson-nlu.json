@@ -1,0 +1,8 @@
+{
+  "apikey": "n32iC8AAsVDm2naCttfyqcEsyb-Z-Me0Xhb9pqnY_2PK",
+  "iam_apikey_description": "Auto generated apikey during resource-key operation for Instance - crn:v1:bluemix:public:natural-language-understanding:us-south:a/efe29feb1ad44e5ebece259b8c4eb583:0a4ef24c-1771-42cd-981c-17e9e31e74d0::",
+  "iam_apikey_name": "auto-generated-apikey-3420e978-707d-4dce-a21f-2f19d495af9b",
+  "iam_role_crn": "crn:v1:bluemix:public:iam::::serviceRole:Manager",
+  "iam_serviceid_crn": "crn:v1:bluemix:public:iam-identity::a/efe29feb1ad44e5ebece259b8c4eb583::serviceid:ServiceId-db49ecfa-5f11-4b01-aa5d-ec10c02362a0",
+  "url": "https://gateway.watsonplatform.net/natural-language-understanding/api"
+}
